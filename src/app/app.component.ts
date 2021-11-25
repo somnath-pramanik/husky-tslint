@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'husky-tslint';
 
   private Add(){
-    const a = "Hello";
+    const a = "Hello  ";
   }
 }
